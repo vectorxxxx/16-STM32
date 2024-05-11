@@ -98,7 +98,7 @@ void EXTI0_IRQHandler(void)
 }
 
 /**
-  * @brief 反向旋转外部中断函数
+  * @brief 正向旋转外部中断函数
   * @param  无
   * @retval 无
   */

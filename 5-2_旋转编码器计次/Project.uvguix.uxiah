@@ -101,10 +101,10 @@
         <yPos>-1</yPos>
       </MaxPosition>
       <NormalPosition>
-        <Top>0</Top>
-        <Left>2</Left>
-        <Right>1693</Right>
-        <Bottom>1026</Bottom>
+        <Top>604</Top>
+        <Left>381</Left>
+        <Right>2072</Right>
+        <Bottom>1630</Bottom>
       </NormalPosition>
     </WindowPosition>
     <MDIClientArea>
@@ -1874,9 +1874,9 @@
       </Doc>
       <Doc>
         <Name>.\Hardware\Encoder.c</Name>
-        <ColumnNumber>0</ColumnNumber>
-        <TopLine>80</TopLine>
-        <CurrentLine>116</CurrentLine>
+        <ColumnNumber>12</ColumnNumber>
+        <TopLine>1</TopLine>
+        <CurrentLine>101</CurrentLine>
         <Folding>1</Folding>
         <ContractedFolders></ContractedFolders>
         <PaneID>0</PaneID>
